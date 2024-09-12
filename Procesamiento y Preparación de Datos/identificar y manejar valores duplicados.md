@@ -1,4 +1,4 @@
-#Identificar y manejar valores duplicados
+# Identificar y manejar valores duplicados
 
 ## Identificar valores duplicados en “default”
 
