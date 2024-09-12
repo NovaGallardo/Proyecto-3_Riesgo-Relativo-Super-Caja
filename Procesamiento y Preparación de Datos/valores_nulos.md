@@ -1,3 +1,7 @@
+# Análisis y Tratamiento de Valores Nulos en el Proyecto 3
+
+Este documento detalla el análisis de valores nulos en los diferentes datasets del proyecto, así como los métodos utilizados para tratarlos mediante la imputación de valores.
+
 ## Consultar valores nulos en “default”
 
 ```sql
