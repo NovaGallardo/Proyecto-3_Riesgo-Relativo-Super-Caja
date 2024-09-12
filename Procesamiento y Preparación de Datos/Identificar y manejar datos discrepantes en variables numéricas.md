@@ -1,4 +1,4 @@
-#Identificar y manejar datos discrepantes en variables numéricas
+# Identificar y manejar datos discrepantes en variables numéricas
 
 ### Identificación de outliers de edad
 
