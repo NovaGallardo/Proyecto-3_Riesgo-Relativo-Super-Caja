@@ -1,5 +1,12 @@
 # Proyecto 3 - Riesgo Relativo: Análisis de Crédito en Super Caja
 
+## Enlaces y Recursos
+
+- [Bitácora](https://www.notion.so/Proyecto-3-Riesgo-Relativo-3d3f6110a66d4f1dbe5653251ed14a5b?pvs=4)
+- [Dashboard Looker Studio](https://lookerstudio.google.com/u/0/reporting/ed2a3bf6-df72-411f-8e4c-a914a24da3f7/page/p_4g97w6orkd/edit)
+- [Presentación en Google Slides](https://docs.google.com/presentation/d/139iLcsgYCTyhAVKJ1rT15xF5bn_5RNTVsSqnRtAGSrE/edit?usp=sharing)
+
+
 Este proyecto tiene como objetivo automatizar el proceso de análisis de crédito en el banco 'Super Caja', mejorando la eficiencia, precisión y rapidez en la evaluación de solicitudes de crédito. Con la implementación de técnicas avanzadas de análisis de datos, se busca clasificar a los solicitantes en diferentes categorías de riesgo basadas en su probabilidad de incumplimiento.
 
 ## Contexto
