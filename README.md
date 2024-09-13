@@ -82,17 +82,17 @@ El dataset está compuesto por variables como edad, género, nivel salarial, his
 
 ## 1. Procesamiento y Preparación de Datos
 
-- [Identificación y manejo de valores nulos](./valores_nulos.md)
-- [Identificación y manejo de valores duplicados](./identificar%20y%20manejar%20valores%20duplicados.md)
-- [Agrupación de datos según variables categóricas](./Identificar%20y%20manejar%20datos%20discrepantes%20en%20variables%20categ%C3%B3ricas.md)
-- [Aplicación de medidas de tendencia central (moda, media, mediana) y dispersión (desviación estándar)](./Identificar%20y%20manejar%20datos%20discrepantes%20en%20variables%20num%C3%A9ricas.md)
-- [Visualización de la distribución de los datos y creación de nuevas variables para enriquecer el análisis](./Crear%20nuevas%20variables.md)
+- [Identificación y manejo de valores nulos](./Procesamiento%20y%20Preparaci%C3%B3n%20de%20Datos/valores_nulos.md)
+- [Identificación y manejo de valores duplicados](./Procesamiento%20y%20Preparaci%C3%B3n%20de%20Datos/identificar%20y%20manejar%20valores%20duplicados.md)
+- [Agrupación de datos según variables categóricas](./Procesamiento%20y%20Preparaci%C3%B3n%20de%20Datos/Identificar%20y%20manejar%20datos%20discrepantes%20en%20variables%20categ%C3%B3ricas.md)
+- [Aplicación de medidas de tendencia central (moda, media, mediana) y dispersión (desviación estándar)](./Procesamiento%20y%20Preparaci%C3%B3n%20de%20Datos/Identificar%20y%20manejar%20datos%20discrepantes%20en%20variables%20num%C3%A9ricas.md)
+- [Visualización de la distribución de los datos y creación de nuevas variables para enriquecer el análisis](./Procesamiento%20y%20Preparaci%C3%B3n%20de%20Datos/Crear%20nuevas%20variables.md)
 
 ## 2. Análisis Exploratorio
 
-- [Construcción de tablas auxiliares para facilitar el análisis](./Construir%20tablas%20auxiliares.md)
+- [Construcción de tablas auxiliares para facilitar el análisis](./Procesamiento%20y%20Preparaci%C3%B3n%20de%20Datos/Construir%20tablas%20auxiliares.md)
 - Cálculo de cuartiles, deciles y percentiles
-- [Estudio de la correlación entre variables numéricas relevantes, utilizando la correlación de Pearson para identificar relaciones significativas](./unir%20tablas.md)
+- [Estudio de la correlación entre variables numéricas relevantes, utilizando la correlación de Pearson para identificar relaciones significativas](./Procesamiento%20y%20Preparaci%C3%B3n%20de%20Datos/unir%20tablas.md)
 
 ## 3. Aplicación del Modelo de Riesgo Relativo
 
