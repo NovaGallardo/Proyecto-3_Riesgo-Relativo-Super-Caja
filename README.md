@@ -80,20 +80,25 @@ El dataset está compuesto por variables como edad, género, nivel salarial, his
 
 ## Proceso
 
-### 1. Procesamiento y Preparación de Datos
-- Identificación y manejo de valores nulos y duplicados.
-- Agrupación de datos según variables categóricas.
-- Aplicación de medidas de tendencia central (moda, media, mediana) y dispersión (desviación estándar).
-- Visualización de la distribución de los datos y creación de nuevas variables para enriquecer el análisis.
+## 1. Procesamiento y Preparación de Datos
 
-### 2. Análisis Exploratorio
-- Construcción de tablas auxiliares para facilitar el análisis.
-- Cálculo de cuartiles, deciles y percentiles.
-- Estudio de la correlación entre variables numéricas relevantes, utilizando la correlación de Pearson para identificar relaciones significativas.
+- [Identificación y manejo de valores nulos](./valores_nulos.md)
+- [Identificación y manejo de valores duplicados](./identificar%20y%20manejar%20valores%20duplicados.md)
+- [Agrupación de datos según variables categóricas](./Identificar%20y%20manejar%20datos%20discrepantes%20en%20variables%20categ%C3%B3ricas.md)
+- [Aplicación de medidas de tendencia central (moda, media, mediana) y dispersión (desviación estándar)](./Identificar%20y%20manejar%20datos%20discrepantes%20en%20variables%20num%C3%A9ricas.md)
+- [Visualización de la distribución de los datos y creación de nuevas variables para enriquecer el análisis](./Crear%20nuevas%20variables.md)
 
-### 3. Aplicación del Modelo de Riesgo Relativo
-- Implementación de un análisis de riesgo relativo para calcular la probabilidad de incumplimiento.
-- Clasificación de los clientes en categorías de riesgo (alto, medio, bajo) para la toma de decisiones informada.
+## 2. Análisis Exploratorio
+
+- [Construcción de tablas auxiliares para facilitar el análisis](./Construir%20tablas%20auxiliares.md)
+- Cálculo de cuartiles, deciles y percentiles
+- [Estudio de la correlación entre variables numéricas relevantes, utilizando la correlación de Pearson para identificar relaciones significativas](./unir%20tablas.md)
+
+## 3. Aplicación del Modelo de Riesgo Relativo
+
+- Implementación de un análisis de riesgo relativo para calcular la probabilidad de incumplimiento
+- Clasificación de los clientes en categorías de riesgo (alto, medio, bajo) para la toma de decisiones informada
+
 
 ## Resultados
 
