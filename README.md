@@ -97,7 +97,6 @@ El dataset está compuesto por variables como edad, género, nivel salarial, his
 ## 3. Aplicación del Modelo de Riesgo Relativo
 
 - [Implementación de un análisis de riesgo relativo para calcular la probabilidad de incumplimiento](./Riesgo%20Relativo/Calcular%20Riesgo%20Relativo.md)
-- Clasificación de los clientes en categorías de riesgo (alto, medio, bajo) para la toma de decisiones informada
 
 
 ## Resultados
